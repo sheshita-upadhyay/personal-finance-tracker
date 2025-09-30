@@ -1,16 +1,25 @@
-# React + Vite
+# Personal Finance Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **Personal Finance Tracker** web application built with **React** and **LocalStorage**.
 
-Currently, two official plugins are available:
+## Features
+- Add and remove transactions (Income & Expense)
+- Dynamic calculation of Balance, Income, and Expense
+- Transaction history saved in LocalStorage
+- Responsive and visually appealing UI
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React (Functional Components + Hooks)
+- JavaScript (ES6+)
+- CSS
+- LocalStorage
 
-## React Compiler
+## How to Run
+1. Clone the repository:
+2. Navigate to the project folder:
+3. Install dependencies:
+4. Start the development server:
+5. Open browser at [http://localhost:5173](http://localhost:5173)
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Author
+Sheshita Upadhyay
