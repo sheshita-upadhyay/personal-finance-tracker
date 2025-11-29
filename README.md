@@ -34,7 +34,7 @@ vite.config.js
 
 🔗 Backend API (Node.js + PostgreSQL)
 This frontend connects to a fully built backend service for handling all transactions.
-Check the backend here:
+Check the backend here:https://github.com/sheshita-upadhyay/finance-backend
 
 ▶️ Run Locally
 1. Install dependencies
