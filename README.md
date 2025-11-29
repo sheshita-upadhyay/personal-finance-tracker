@@ -32,10 +32,9 @@ public/
 package.json
 vite.config.js
 
-🔗 Backend Connection
-
-API base URL used:
-http://localhost:5000/api/transactions
+🔗 Backend API (Node.js + PostgreSQL)
+This frontend connects to a fully built backend service for handling all transactions.
+Check the backend here:
 
 ▶️ Run Locally
 1. Install dependencies
